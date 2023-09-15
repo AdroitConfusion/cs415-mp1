@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_02.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_03.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_roughness.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_Normal.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_Emission.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_Metallic.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_Occlusion.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/HealthPack_Albedo.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_HealthPack.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/TEX_invader_3.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/palette.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/invader_3.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/M_Enemy.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/C_Health.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HUD.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_Albedo.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_Emission.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_Metallic.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_Normal.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_Occlusion.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/HealthPack/HealthPack_roughness.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/lambert1.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/TEX_HealthPack_Albedo.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/TEX_HealthPack_Normal.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HealthPack/TEX_HealthPack_roughness.uasset",
+				"C:/Users/ayaan/OneDrive/Desktop/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/invader_3.uasset"
+			]
+		}
+	]
+}
